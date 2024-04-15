@@ -1,2 +1,3 @@
 # MPPT-Project-by-HaoNH
-abcd
+MPPT Charge Controller using Arduino
+Để tối đa hóa công suất quang điện (PV), việc liên tục theo dõi điểm công suất tối đa (MPP) của hệ thống là rất cần thiết. MPP của hệ thống PV phụ thuộc vào điều kiện bức xạ mặt trời, nhiệt độ môi trường và nhu cầu phụ tải. Kỹ thuật theo dõi điểm công suất tối đa (MPPT) có thể bắt được MPP của hệ thống PV. Những kỹ thuật như vậy có thể được thực hiện dưới nhiều dạng phần cứng và phần mềm khác nhau. Mục tiêu của dự án này là phát triển, xây dựng và thử nghiệm một giải pháp hiệu quả nhằm tìm ra MPP với ngân sách hạn chế. Dự án bao gồm bốn chương, nói về mạch MPPT, tấm pin năng lượng mặt trời và công thức của nó, về cách hoạt động của MPPT, các bộ phận và mạch phụ cần thiết, phân tích bộ chuyển đổi DC-DC cũng như mô phỏng và tiến hành làm mạch thực tế.
